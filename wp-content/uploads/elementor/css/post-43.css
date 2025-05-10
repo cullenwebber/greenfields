@@ -3,9 +3,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('/greenfields/wp-content/uploads/2025/04/franklin-gothic-extracondensed.woff2') format('woff2'),
-		url('/greenfields/wp-content/uploads/2025/04/franklin-gothic-extracondensed.woff') format('woff'),
-		url('/greenfields/wp-content/uploads/2025/04/franklin-gothic-extracondensed.ttf') format('truetype');
+	src: url('https://greenfields.cullenwebber.com/wp-content/uploads/2025/04/franklin-gothic-extracondensed.woff2') format('woff2'),
+		url('https://greenfields.cullenwebber.com/wp-content/uploads/2025/04/franklin-gothic-extracondensed.woff') format('woff'),
+		url('https://greenfields.cullenwebber.com/wp-content/uploads/2025/04/franklin-gothic-extracondensed.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
 /* Start Custom Fonts CSS */@font-face {
@@ -13,8 +13,8 @@
 	font-style: italic;
 	font-weight: normal;
 	font-display: auto;
-	src: url('/greenfields/wp-content/uploads/2025/04/InstrumentSerif-Italic.woff2') format('woff2'),
-		url('/greenfields/wp-content/uploads/2025/04/InstrumentSerif-Italic.woff') format('woff'),
-		url('/greenfields/wp-content/uploads/2025/04/InstrumentSerif-Italic.ttf') format('truetype');
+	src: url('https://greenfields.cullenwebber.com/wp-content/uploads/2025/04/InstrumentSerif-Italic.woff2') format('woff2'),
+		url('https://greenfields.cullenwebber.com/wp-content/uploads/2025/04/InstrumentSerif-Italic.woff') format('woff'),
+		url('https://greenfields.cullenwebber.com/wp-content/uploads/2025/04/InstrumentSerif-Italic.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */

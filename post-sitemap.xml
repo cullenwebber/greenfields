@@ -2,27 +2,27 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/greenfields/resources/</loc>
-		<lastmod>2025-04-28T04:12:38+00:00</lastmod>
+		<lastmod>2025-05-10T11:53:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/greenfields/cremation-services-in-perth-dignified-choices-and-pricing-explained/</loc>
+		<lastmod>2025-05-10T11:32:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/greenfields/wp-content/uploads/2025/04/services-scaled.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/greenfields/comprehensive-guide-to-prepaid-funerals-in-perth-and-wa/</loc>
-		<lastmod>2025-04-28T03:39:29+00:00</lastmod>
+		<lastmod>2025-05-10T11:48:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/greenfields/wp-content/uploads/2025/04/post.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/greenfields/role-of-your-funeral-director-providing-compassionate-support-in-difficult-times/</loc>
-		<lastmod>2025-04-28T03:57:01+00:00</lastmod>
+		<lastmod>2025-05-10T11:53:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/greenfields/wp-content/uploads/2025/04/eduard-delputte-TvlthrnLDMU-unsplash-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/greenfields/cremation-services-in-perth-dignified-choices-and-pricing-explained/</loc>
-		<lastmod>2025-04-28T04:12:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/greenfields/wp-content/uploads/2025/04/services-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
